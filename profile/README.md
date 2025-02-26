@@ -1,4 +1,4 @@
-# <img src="https://github.com/Velocity-Hub-TMS/velocity-hub/blob/main/public/images/logo.png?raw=true" width="26" /> Velocity Hub
+# <img src="https://firebasestorage.googleapis.com/v0/b/velocity-prod-8abdb.firebasestorage.app/o/logo.png?alt=media&token=654f3b09-34e8-4cbf-b9bc-911520ebb7e4" width="26" /> Velocity Hub
 
 ## The Ultimate Transportation Management Solution
 
