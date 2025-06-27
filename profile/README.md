@@ -1,39 +1,18 @@
 # <img src="https://i.postimg.cc/4yJHC6JH/logo.png" width="26" /> Velocity Hub
 
-**Velocity Hub** is a comprehensive Transportation Management System (TMS) designed to streamline and optimize passenger transport operations. It integrates real-time fleet tracking, intelligent dispatching, proactive maintenance, and complete financial management—delivering a unified solution for efficient fleet oversight.
+**Velocity Hub** is a modern Transportation Management System (TMS) built to streamline operations for bus companies and tour operators. With modules for fleet management, dispatching, reservations, maintenance, and finance, it offers a unified platform to digitize every aspect of your business.
 
-## 🚀 Overview
+Designed to reduce complexity and boost efficiency, Velocity Hub combines real-time data, automation, and intuitive workflows—giving teams full control over vehicles, drivers, routes, and clients.
 
-Velocity Hub is a scalable and modular solution tailored for public and private transport operators. From live vehicle monitoring to route planning, vehicle maintenance, and financial workflows, it empowers transport companies to digitize and automate their entire operations.
+Its modular architecture and open API ensure seamless integration with your existing systems, whether deployed in the cloud, on-premise, or in hybrid environments. Scalable and adaptable, Velocity Hub evolves with your business and supports growth at every stage.
 
-Whether you're managing a small fleet or a national network, Velocity Hub adapts to your needs—helping you make data-driven decisions and reduce operational costs.
+Experience faster workflows, fewer errors, and complete operational visibility—all in one place.
 
-## 🔑 Key Features
+## 📩 Get in Touch
 
-- **📍 Real-Time Fleet Tracking**  
-  Monitor vehicle locations with integrated GPS and tachograph data for full situational awareness.
+We offer live demos, technical consultations, and full onboarding support.  
+Interested in working together or learning more?
 
-- **🧭 Smart Dispatching**  
-  Manage routes, tours, drivers, and rental operations from a centralized platform.
-
-- **🛠 Predictive Maintenance**  
-  Schedule service intervals, track breakdowns, and maintain vehicle history with ease.
-
-- **💳 Financial Management**  
-  Handle invoicing, payments, expenses, and rental transactions in one place.
-
-- **👥 Customer Module**  
-  Keep a record of clients, track their bookings, and manage relationships efficiently.
-
-- **📊 Reports & Analytics**  
-  Visualize KPIs across operations: performance, maintenance, financials, and fleet usage.
-
-## 📽️ Live Demo
-
-Experience Velocity Hub in action:  
-[![Demo video](https://img.youtube.com/vi/RlVPmuuBwkk/0.jpg)](https://www.youtube.com/watch?v=RlVPmuuBwkk)
-
-## 📬 Contact Us
-
-Interested in a live presentation or exploring partnership opportunities?  
-Get in touch to learn how **Velocity Hub** can power your transport business forward.
+📧 **Email:** velocity.tms@gmail.com  
+🌐 **Website:** [www.velocityhub.cloud](https://www.velocityhub.cloud)  
+📞 **Phone:** Available on request
