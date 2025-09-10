@@ -13,6 +13,6 @@ Experience faster workflows, fewer errors, and complete operational visibility�
 We offer live demos, technical consultations, and full onboarding support.  
 Interested in working together or learning more?
 
-📧 **Email:** velocity.tms@gmail.com  
+📧 **Email:** contact@velocityhub.cloud  
 🌐 **Website:** [www.velocityhub.cloud](https://www.velocityhub.cloud)  
 📞 **Phone:** Available on request
